@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <header>
+
+        <h1> Perfil do Usuário </h1>
+
+    </header>
+
+
+    <main>
+
+        <section class="secUm">
+
+            <div class="foto">
+
+                <img src="http://lorempixel.com.br/500/400/?1" alt="">
+
+            </div>
+
+            <div>
+
+                <h2> Matheus de Oliveira Mota</h2>
+                <p> Email: matmota@gmail.com</p>
+                <p> Telefone: (11) 91991-9199</p>
+
+            </div>
+
+        </section>
+
+        <section>
+
+            <div>
+
+                <h3> Sobre Mim</h3>
+
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati veritatis doloribus at quasi,
+                    nostrum error molestias alias exercitationem commodi, omnis autem explicabo quae praesentium. Ipsum,
+                    aliquam suscipit. Nihil assumenda velit odit corporis aspernatur saepe id soluta a! Quod distinctio
+                    numquam unde cum minus vero consequuntur dolorem delectus corporis earum quo rerum cupiditate
+                    pariatur neque mollitia nulla, obcaecati in architecto ipsa enim adipisci. Dolores ea maxime cum
+                    laboriosam ducimus. Dolorum, reprehenderit ipsam vitae ducimus maiores rem accusantium? Quia
+                    consequatur quis consequuntur hic, quam quisquam error fugiat, commodi facere excepturi ipsam qui.
+                </p>
+
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus saepe excepturi blanditiis
+                    itaque voluptas asperiores minima, libero eaque dignissimos doloribus rerum accusantium odit, culpa
+                    porro tempore incidunt. Incidunt beatae consequatur quibusdam tenetur culpa sed quia et dolor magni
+                    atque itaque error voluptas maxime sequi soluta facere, unde aliquam! Asperiores cumque dignissimos
+                    quibusdam at hic maxime eius atque delectus nisi. Veritatis maxime atque exercitationem pariatur
+                    eveniet obcaecati earum illum voluptatum sint! Laborum, illo. Laudantium quo perferendis rerum id
+                    quisquam consequatur est, autem, praesentium nulla odio perspiciatis optio beatae quasi? Nostrum
+                    ullam officia quas, obcaecati aperiam nisi, optio aspernatur repellendus sed possimus numquam
+                    incidunt praesentium inventore dicta blanditiis consequuntur eaque labore itaque officiis iure quod
+                    repellat eos saepe. Nisi accusantium asperiores aliquid, totam sunt commodi, nobis sapiente
+                    laudantium dolorum similique alias architecto, rem officia non magnam molestiae consequuntur sit
+                    cupiditate. Consequuntur architecto totam, veniam error iusto commodi laborum odio praesentium
+                    ratione dolorem sapiente nostrum ab provident rerum reprehenderit? Error, aspernatur atque assumenda
+                    aliquam vel minus ipsa aut modi impedit earum natus. Expedita quaerat maxime eius ratione nesciunt
+                    doloremque quibusdam animi nisi, facilis optio delectus voluptates sed atque dignissimos at ut
+                    facere architecto in reprehenderit dicta iusto! Quae harum illum numquam odio rerum?
+
+                </p>
+
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi vero eligendi obcaecati
+                    reprehenderit illum eum expedita, voluptatibus veritatis quae modi voluptas quaerat minus nulla
+                    accusantium ipsam nemo quam repellendus dolore non aperiam quia ullam doloribus. Numquam aliquam
+                    dolores dolore, provident blanditiis non possimus expedita magni. Vel veritatis perferendis iure.
+                    Beatae, optio vero rem earum sint voluptate libero, ad voluptatibus nostrum eum, cumque maiores?
+                    Vitae, consectetur quod. Voluptatum quos possimus dignissimos quibusdam ex perspiciatis obcaecati
+                    iure deleniti, unde recusandae libero totam ad cum, quia nesciunt illum facere sint, quod explicabo
+                    quae quidem nisi pariatur eveniet officia! Delectus laudantium repudiandae debitis sint. Odio, quia
+                    libero reiciendis enim voluptate atque quidem ea odit natus explicabo inventore ex, veniam suscipit
+                    consequuntur voluptates nesciunt quae temporibus esse nam fugit magnam totam. Ratione commodi magni
+                    inventore iure pariatur maiores corporis consequatur libero qui delectus, ea accusamus quod
+                    provident sequi assumenda perferendis molestias consequuntur vero. Quidem, laborum.
+                </p>
+
+            </div>
+
+            <div>
+                <h3> Minhas Habilidades</h3>
+    
+                <ul>
+                    <li> HTML </li>
+                    <li> CSS </li>
+                    <li> Office</li>
+                    <li></li>
+                </ul>
+    
+            </div>
+
+
+        </section>
+
+    
+
+          
+
+
+    </main>
+
+
+
+
+    <footer>
+
+        @ 2023
+
+    </footer>
+
+</body>
+
+</html>
