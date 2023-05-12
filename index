@@ -28,7 +28,7 @@
 
             </div>
 
-            <div>
+            <div class="infos">
 
                 <h2> Matheus de Oliveira Mota</h2>
                 <p> Email: matmota@gmail.com</p>
@@ -38,9 +38,9 @@
 
         </section>
 
-        <section>
+        <section class="secDois">
 
-            <div>
+            <div class="sobreMim">
 
                 <h3> Sobre Mim</h3>
 
@@ -91,14 +91,14 @@
 
             </div>
 
-            <div>
+            <div class="hab">
                 <h3> Minhas Habilidades</h3>
     
                 <ul>
                     <li> HTML </li>
                     <li> CSS </li>
                     <li> Office</li>
-                    <li></li>
+                    <li> Truco</li>
                 </ul>
     
             </div>
